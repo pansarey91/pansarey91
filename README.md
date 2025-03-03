@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pansarey91&label=Profile%20views&color=0e75b6&style=flat" alt="pansarey91" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pansarey91" alt="pansarey91" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pansarey91yash" target="blank"><img src="https://img.shields.io/twitter/follow/pansarey91yash?logo=twitter&style=for-the-badge" alt="pansarey91yash" /></a> </p>
 
 - 🔭 I’m currently working on [Grievance System](https://github.com/pansarey91/Grievance_System_Java_Hibernate)
 
