@@ -1,13 +1,12 @@
-# Pansare Yash Viraj - Programmer Student
-
+# Pansare Yash Viraj - Developers
 ## 🌟 About Me
-Hello! I'm **Pansare Yash Viraj**, a passionate **programming student** with a keen interest in software development, web applications, and problem-solving. I love learning new technologies and working on projects that enhance my skills.
+Hello! I'm **Pansare Yash Viraj**, a passionate **Developers** with a keen interest in software development, web applications, and problem-solving. I love learning new technologies and working on projects that enhance my skills.
 
 ## 🚀 Skills & Technologies
-- **Programming Languages:** Java, Python, PHP, JavaScript
+- **Programming Languages:** Java, Python, PHP, JavaScript, C, C++
 - **Web Development:** HTML, CSS, JavaScript, PHP, MySQL
 - **Frameworks & Libraries:** Swing, Hibernate, Spring Boot, Bootstrap
-- **Database Management:** MySQL, PostgreSQL
+- **Database Management:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Other Tools:** XAMPP, Maven
 
@@ -16,10 +15,9 @@ Hello! I'm **Pansare Yash Viraj**, a passionate **programming student** with a k
 - A **web application** to handle student grievances related to **hostel, food, and library**.
 - Built with **PHP, HTML, CSS, JavaScript, and MySQL**.
 
-### 🔹 AI-Powered Career Counseling Platform
-- A **Flutter-based app** that provides career counseling using **AI-based recommendations**.
-- Integrated with **Supabase and OpenAI APIs**.
-
+### 🔹 Grievance System
+- A **Desktop application** to handle student grievances related to **hostel, food, and library**.
+- Built with **Java, Hibernate, iText PDF,  and MySQL**.
 
 ### 🔹 Desktop Weather Application
 - A **Python-based GUI application** providing real-time weather updates and forecasts.
